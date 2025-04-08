@@ -123,7 +123,7 @@
    | O           | +    | 🩸🩸🩸🩸🩸🩸🩸🩸 |
    | O           | -    | 🩸🩸             |
 
-   🩸 $$=8$$ people
+   🩸$~=8~$people
 
    - Answer
      - O+ has $8$ 🩸 and each 🩸 corresponds to $8$ people so it is $8 \times 8 = 64$
@@ -154,7 +154,7 @@
 
    James moved $3$ boxes from the living room to the bedroom.
 
-   1. After James moved those $$3$$ boxes, which two rooms had the same number of boxes?
+   1. After James moved those$~3~$boxes, which two rooms had the same number of boxes?
       1. Living room
       2. Kitchen
       3. Bathroom
