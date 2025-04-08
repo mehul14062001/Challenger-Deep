@@ -170,7 +170,7 @@
    1. How many kilograms of recycling have been brought to the drive in all?
       - Answer
         - $3 \times (8 + 2 + 4 + 6) = 60$
-          Answer: **60**
+          Answer: $60$
 
 10. Based on the data below, which student's score improved the most between the midterm and final exams?
 
