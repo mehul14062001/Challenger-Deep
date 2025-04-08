@@ -229,7 +229,7 @@
     | Third     | $125$                  |
     | Fourth    | $75$                   |
 
-    Which graph below shows the most *reasonable* scale for the information in the table?
+    Which graph below shows the most reasonable scale for the information in the table?
 
     ![image.png](media/image_day00%209.png)
 
